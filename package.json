@@ -1,0 +1,27 @@
+{
+  "name": "cosmos-iot-server",
+  "version": "0.0.1",
+  "description": "IoT broker for MQTT protocols",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrgarciach/cosmos-iot-server.git"
+  },
+  "keywords": [
+    "iot",
+    "mqtt",
+    "mosca"
+  ],
+  "author": "rrgarciach",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rrgarciach/cosmos-iot-server/issues"
+  },
+  "homepage": "https://github.com/rrgarciach/cosmos-iot-server#readme",
+  "dependencies": {
+    "mosca": "^0.32.1"
+  }
+}
