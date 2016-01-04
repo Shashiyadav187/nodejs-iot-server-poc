@@ -1,5 +1,5 @@
 {
-  "name": "cosmos-iot-server",
+  "name": "iot-server-poc",
   "version": "0.0.1",
   "description": "IoT broker for MQTT protocols",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rrgarciach/cosmos-iot-server.git"
+    "url": "git+https://github.com/rrgarciach/iot-server-poc.git"
   },
   "keywords": [
     "iot",
@@ -18,9 +18,9 @@
   "author": "rrgarciach",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/rrgarciach/cosmos-iot-server/issues"
+    "url": "https://github.com/rrgarciach/iot-server-poc/issues"
   },
-  "homepage": "https://github.com/rrgarciach/cosmos-iot-server#readme",
+  "homepage": "https://github.com/rrgarciach/iot-server-poc#readme",
   "dependencies": {
     "mosca": "^0.32.1"
   }
